@@ -51,6 +51,23 @@ main {
   justify-content: space-between;
 }
 
+.weather-app-city {
+  font-size: 38px;
+  line-height: 48px;
+  margin: 0;
+}
+
+.weather-app-details {
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.weather-app-details strong {
+  color: #f65282;
+}
+
 footer {
   border-top: 1px solid #f9f7fe;
   color: rgba(0, 0, 0, 0.5);
